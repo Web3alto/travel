@@ -1,11 +1,11 @@
-import React from "react";
+"use client";
 
 const Home = () => {
 	return (
-		<div className="w-[75vw] h-full mx-auto my-[10vh] flex justify-between items-start">
-			<div className="h-full w-2/4 relative">
+		<div className="w-[75vw] h-full mx-auto my-[10vh] flex justify-between items-start ">
+			<div className="h-fit w-2/4 relative z-10">
 				<img
-					className="w-[2.75vw] absolute top-[-1.7vw] left-[-.5vw]"
+					className="w-[2.75vw] absolute top-[-1.7vw] left-[-.5vw] select-none"
 					src="/camp.svg"
 					alt="camp"
 				/>
@@ -67,8 +67,8 @@ const Home = () => {
 					</button>
 				</div>
 			</div>
-			<div className="h-full w-2/4 flex justify-start items-start ">
-				<div className="absolute bg-[url('/pattern-bg.webp')] bg-center bg-cover w-screen h-screen top-[-12.5vh] right-[-5vw]"></div>
+			<div className="h-full w-2/4 flex justify-start items-start">
+				<div className="absolute bg-[url('/pattern-bg.webp')] bg-center bg-cover w-screen h-screen top-[-12.5vh] right-[-5vw] select-none"></div>
 				<div className="flex flex-col items-start justify-between bg-[#292C27] p-[1.5vw] w-[14vw] rounded-[1vw] ml-[2vw] z-10 h-fit">
 					<div className="w-full flex items-center justify-between">
 						<h2 className="text-[#A2A2A2] text-[.9vw]">Location</h2>

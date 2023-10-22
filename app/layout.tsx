@@ -26,7 +26,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 					rel="stylesheet"
 				/>
 			</Head>
-			<body>{children}</body>
+			<body className="overflow-x-hidden">{children}</body>
 		</>
 	);
 }
