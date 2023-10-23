@@ -1,4 +1,6 @@
 import Download from "./sections/Download";
+import Features from "./sections/Features";
+import Footer from "./sections/Footer";
 import Guide from "./sections/Guide";
 import Header from "./sections/Header";
 import Navbar from "./sections/Navbar";
@@ -11,7 +13,9 @@ export default function Home() {
 			<Header />
 			<Slider />
 			<Guide />
+			<Features />
 			<Download />
+			<Footer />
 		</main>
 	);
 }
