@@ -55,7 +55,7 @@ const Features = () => {
 							<p className="text-[#7B7B7B] text-[4vw] sm:text-[2vw] lg:text-[.9vw]">
 								Schedule an adventure with friends. On holidays,
 								there are many interesting offers from Hilink.
-								That way, there's no more discussion
+								That way, there&apos;s no more discussion
 							</p>
 						</div>
 					</div>

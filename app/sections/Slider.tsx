@@ -60,7 +60,7 @@ const Slider = () => {
 				<p className="mt-[5vw] sm:mt-[3vw] lg:mt-[1vw] text-[3.8vw] sm:text-[2vw] lg:text-[.9vw]">
 					Starting from the anxiety of the climbers when visiting a
 					new climbing location, the possibility of getting lost is
-					very large. That's why we are here for those of you who want
+					very large. That&apos;s why we are here for those of you who want
 					to start an adventure.
 				</p>
 				<img
