@@ -2,9 +2,9 @@
 
 const Navbar = () => {
 	return (
-		<div className="w-[95vw] lg:w-[75vw] h-[5vh] lg:h-[10vh] flex justify-between items-center mx-auto z-10 relative">
+		<div className="w-[90vw] sm:w-[95vw] lg:w-[75vw] h-[10vh] sm:h-[5vh] lg:h-[10vh] flex justify-between items-center mx-auto z-10 relative">
 			<img
-				className="w-[10vw] lg:w-[5vw] cursor-pointer"
+				className="w-[20vw] sm:w-[10vw] lg:w-[5vw] cursor-pointer"
 				src="/hilink-logo.svg"
 				alt="hilink-logo"
 			/>
@@ -26,7 +26,7 @@ const Navbar = () => {
 				</li>
 			</nav>
 			<img
-				className="flex lg:hidden w-[4vw] cursor-pointer"
+				className="flex lg:hidden w-[8vw] sm:w-[4vw] cursor-pointer"
 				src="/menu.svg"
 				alt="menu"
 			/>
