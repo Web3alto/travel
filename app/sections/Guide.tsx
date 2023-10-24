@@ -39,7 +39,7 @@ const Guide = () => {
 							<h2 className="text-[#A2A2A2] text-[4vw] sm:text-[2.1vw] lg:text-[.9vw] mb-[.75vh] lg:mb-[1vh]">
 								Destination
 							</h2>
-							<p className="font-bold text-[30AF5B] text-[4vw] sm:text-[2.1vw] lg:text-[.9vw]">
+							<p className="font-bold text-[#30AF5B] text-[4vw] sm:text-[2.1vw] lg:text-[.9vw]">
 								48 min
 							</p>
 						</div>

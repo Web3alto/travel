@@ -60,7 +60,7 @@ const Home = () => {
 							Download App
 						</label>
 					</button>
-					<button className="bg-[#ffffff] px-[25vw] sm:px-[4vw] lg:px-[1.5vw] py-[3vh] sm:py-[1.5vh] flex justify-center items-center rounded-[10vw] sm:rounded-[5vw] lg:rounded-[3vw] mt-[2.5vh] sm:mt-0 cursor-pointer">
+					<button className="bg-[#ffffff] px-[22.5vw] sm:px-[4vw] lg:px-[1.5vw] py-[3vh] sm:py-[1.5vh] flex justify-center items-center rounded-[10vw] sm:rounded-[5vw] lg:rounded-[3vw] mt-[2.5vh] sm:mt-0 cursor-pointer">
 						<img
 							className="w-[6vw] sm:w-[3vw] lg:w-[1.25vw] mr-[2vw] sm:mr-[1vw] lg:mr-[.5vw]"
 							src="/play.svg"
@@ -73,7 +73,7 @@ const Home = () => {
 				</div>
 			</div>
 			<div className="h-full w-full lg:w-2/4 flex justify-start items-start mt-[10vh] sm:mt-[7.5vh] lg:mt-0">
-				<div className="flex flex-col items-start justify-between bg-[#292C27] p-[8vw] sm:p-[3vw] lg:p-[1.5vw] w-[70vw] sm:w-[32.5vw] lg:w-[14vw] rounded-[6vw] sm:rounded-[3vw] lg:rounded-[1vw] lg:ml-[2vw] z-10 h-fit">
+				<div className="flex flex-col items-start justify-between bg-[#292C27] p-[8vw] sm:p-[3vw] lg:p-[1.5vw] w-[70vw] sm:w-[32.5vw] lg:w-[15vw] rounded-[6vw] sm:rounded-[3vw] lg:rounded-[1vw] lg:ml-[2vw] z-10 h-fit">
 					<div className="w-full flex items-center justify-between">
 						<h2 className="text-[#A2A2A2] text-[4.6vw] sm:text-[2vw] lg:text-[.9vw]">
 							Location
