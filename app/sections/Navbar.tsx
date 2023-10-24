@@ -9,21 +9,11 @@ const Navbar = () => {
 				alt="hilink-logo"
 			/>
 			<nav className="w-[40vw] hidden lg:flex justify-center items-center text-[#7b7b7b] text-[.9vw] ">
-				<li className="px-[1.35vw] cursor-pointer hover:font-bold transition duration-500 ease">
-					Home
-				</li>
-				<li className="px-[1.35vw] cursor-pointer hover:font-bold transition duration-500 ease">
-					How Hilink Work?
-				</li>
-				<li className="px-[1.35vw] cursor-pointer hover:font-bold transition duration-500 ease">
-					Services
-				</li>
-				<li className="px-[1.35vw] cursor-pointer hover:font-bold transition duration-500 ease">
-					Pricing
-				</li>
-				<li className="px-[1.35vw] cursor-pointer hover:font-bold transition duration-500 ease">
-					Contact Us
-				</li>
+				<li className="px-[1.35vw] cursor-pointer">Home</li>
+				<li className="px-[1.35vw] cursor-pointer">How Hilink Work?</li>
+				<li className="px-[1.35vw] cursor-pointer">Services</li>
+				<li className="px-[1.35vw] cursor-pointer">Pricing</li>
+				<li className="px-[1.35vw] cursor-pointer">Contact Us</li>
 			</nav>
 			<img
 				className="flex lg:hidden w-[8vw] sm:w-[4vw] cursor-pointer"
